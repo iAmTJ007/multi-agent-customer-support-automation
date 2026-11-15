@@ -17,3 +17,4 @@ pip install -r requirements.txt
 Copy .env.example to .env
 python main.py
 The output is saved to support_response.md.
+..... try using OpenAI model if memory error comes.
